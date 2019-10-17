@@ -2,6 +2,7 @@
 
 ## Talks I gave:
 
+- **About Time: An Introduction to Timely Dataflow** [Data Council BCN 2019](https://www.datacouncil.ai/talks/its-about-time-an-introduction-to-timely-dataflow) | [Slides](https://github.com/li1/talks/raw/master/about-time.pdf)
 - **A Short Introduction to SnailTrail** [Data Stream Processing and Analytics, ETH 2019](https://www.systems.ethz.ch/courses/spring2019/dspa/) | [Slides](https://github.com/li1/talks/raw/master/snailtrail.pdf)
 - **Across Time and Space — A Many-Worlds Interpretation of State** [BobKonf 2019](https://bobkonf.de/2019/goebel-sandstede.html) | [Slides](https://github.com/li1/talks/raw/master/bobkonf.pdf)
 - **LoView - Exposing data leaks in major dating applications** [Database Chair, TUM 2019](https://db.in.tum.de/index.shtml?lang=en) | [Slides](https://github.com/li1/talks/raw/master/loview.pdf)
